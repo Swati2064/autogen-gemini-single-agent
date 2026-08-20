@@ -368,21 +368,6 @@ Provides a simple and interactive web interface for communicating with the AI ag
 
 ---
 
-## 🔮 Future Improvements
-
-Possible future improvements include:
-
-* 👥 Multi-agent collaboration
-* 🛠️ Custom AI tools
-* 🔎 Web search integration
-* 📚 RAG-based document assistant
-* 💾 Conversation memory
-* 🎙️ Voice interaction
-* 📊 Agent monitoring
-* 🚀 Cloud deployment
-
----
-
 ## 👩‍💻 Author
 
 **Swati Jadhav**
